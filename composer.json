@@ -1,0 +1,6 @@
+{
+    "require": {
+        "socialconnect/http-client": "^1.0",
+        "dapphp/radius": "^2.5"
+    }
+}

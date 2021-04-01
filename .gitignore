@@ -1,5 +1,4 @@
 .vscode
 multi-sso.code-workspace
-composer.json
 composer.lock
 composer.phar
